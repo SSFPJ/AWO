@@ -2,7 +2,7 @@
 
 MetaCoin example Truffle project
 
-#Build
+# Build
 
 ```
 npm install
