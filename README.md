@@ -1,4 +1,3 @@
-# MetaCoin Truffle Box
+# AWO
 
 MetaCoin example Truffle project
-# AWO
